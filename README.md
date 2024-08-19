@@ -1,4 +1,4 @@
-<h1 align="center">Hi :), i'm David</h1>
+<h1 align="center">Hi :)</h1>
 <h3 align="center">Go Developer</h3>
 
 - Linkedin **https://www.linkedin.com/in/david-tsitlanadze-5418b7314/**
