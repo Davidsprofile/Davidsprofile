@@ -1,7 +1,6 @@
 <h1 align="center">David Tsitlanadze</h1>
 <h3 align="center">Go Developer</h3>
-![Go](https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg)
-
+![Go](https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fgo-logo-1&psig=AOvVaw3VPL4vSN8ipzep_Vn8-32E&ust=1724169480175000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC-9_21gYgDFQAAAAAdAAAAABAE)
 
 - Linkedin **https://www.linkedin.com/in/david-tsitlanadze-5418b7314/**
 
