@@ -1,6 +1,7 @@
 <h1 align="center">David Tsitlanadze</h1>
 <h3 align="center">Go Developer</h3>
 - Linkedin:[David Tsitlanadze](https://www.linkedin.com/in/david-tsitlanadze-5418b7314/)**
+<img align="right" alt="Coding" width="400" src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
