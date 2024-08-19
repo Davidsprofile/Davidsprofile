@@ -1,5 +1,7 @@
-<h1 align="center">Hi :)</h1>
+<h1 align="center">David Tsitlanadze</h1>
 <h3 align="center">Go Developer</h3>
+![Go](https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg)
+
 
 - Linkedin **https://www.linkedin.com/in/david-tsitlanadze-5418b7314/**
 
